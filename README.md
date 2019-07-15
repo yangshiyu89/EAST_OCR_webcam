@@ -16,6 +16,7 @@ Demo 可以实现在摄像头上实时检测文本框并进行文字识别。
 - imutils
 ## EAST 模型
 <div align=center><img src="./img/EAST_structure.png" width = "400" alt="EAST structure" align=center></div>
+
 ## 下载
 [EAST 模型](https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/frozen_east_text_detection.pb)
 ## 使用
