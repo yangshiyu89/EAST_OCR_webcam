@@ -2,7 +2,7 @@
 ## 目录
 - [介绍](#介绍)
 - [安装](#安装)
-- [EAST 模型](#EAST)
+- [EAST 模型](#EAST 模型)
 - [下载](#下载)
 - [使用](#使用)
 - [引用](#引用)
@@ -14,7 +14,9 @@ OpenCV 3.4.2 <br>
 Tesseract <br>
 imutils
 ## EAST 模型
-![EAST 模型](./img/EAST_structure.png?w=100)
+<img src="./img/EAST_structure.png" width = "100" alt="EAST structure" align=center>
+
+![EAST 模型](./img/EAST_structure.png)
 ## 下载
 [EAST 模型](https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/frozen_east_text_detection.pb)
 ## 使用
