@@ -16,7 +16,7 @@ imutils
 ## 下载
 [EAST 模型](https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/frozen_east_text_detection.pb)
 ## 使用
-运行 `EAST_OCR.ipynb`
+运行 [`EAST_OCR.ipynb`](./EAST_OCR.ipynb)
 ## 引用
 [EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155v2)
 [OpenCV Text Detection](https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/)
