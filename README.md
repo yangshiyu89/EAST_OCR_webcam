@@ -14,7 +14,7 @@ OpenCV 3.4.2 <br>
 Tesseract <br>
 imutils
 ## EAST 模型
-![EAST 模型](./img/EAST_structure.png){:width="100"}
+![EAST 模型](./img/EAST_structure.png?w/100)
 ## 下载
 [EAST 模型](https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/frozen_east_text_detection.pb)
 ## 使用
