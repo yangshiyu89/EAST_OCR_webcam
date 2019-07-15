@@ -1,1 +1,15 @@
 # EAST_OCR_webcam
+## 目录
+- [介绍]()
+- [安装]()
+- [下载]()
+- [使用]()
+- [引用]()
+## 介绍
+Demo 可以实现在摄像头上实时检测文本框并进行文字识别。
+## 安装
+OpenCV 3.4.2
+## 下载
+[EAST 模型](https://raw.githubusercontent.com/oyyd/frozen_east_text_detection.pb/master/frozen_east_text_detection.pb)
+## 使用
+## 引用
