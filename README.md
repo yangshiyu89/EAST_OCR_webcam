@@ -9,10 +9,10 @@
 ## 介绍
 Demo 可以实现在摄像头上实时检测文本框并进行文字识别。
 ## 安装
-Python 3.6 <br>
-OpenCV 3.4.2 <br>
-Tesseract <br>
-imutils
+- Python 3.6
+- OpenCV 3.4.2
+- Tesseract
+- imutils
 ## EAST 模型
 <div align=center><img src="./img/EAST_structure.png" width = "400" alt="EAST structure" align=center></div>
 
